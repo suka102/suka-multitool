@@ -1,0 +1,6 @@
+colorama
+requests
+tls_client
+holehe
+py-cord
+cryptography
