@@ -56,4 +56,4 @@ for %%p in (%REQUIRED_PACKAGES%) do (
 echo Python and required packages setup completed.
 exit /b 0
 
-# dev by dx
+# dev by dx / https://github.com/eerieweb
