@@ -1,10 +1,10 @@
  # 🌸 Suka Multitool
-**Menu Screenshot:**
+## **Menu Screenshot:**
 
-![image menu](https://ibb.co/CPt72cP)
+<a href="https://ibb.co/CPt72cP"><img src="https://i.ibb.co/phPzy7h/Capture-d-cran-2024-07-23-045908.png" alt="Capture-d-cran-2024-07-23-045908" border="0"></a>
 
-**File Structure:**
-```
+## **Folder Structure:**
+```css
 suka-multitool/
 │── main.py
 │── banner.py
@@ -39,3 +39,41 @@ suka-multitool/
 │   │   ├── pyarmor_runtime.pyd
 ```
 
+## Features With Subdomains
+
+```py
+│─┬ Discord Tools
+│ │── Token Checker
+│ │── Token Spammer
+│ │── Token Joiner
+│ │── Token All Infos
+│ │── HypeSquad Changer
+│ │── Webhook Spammer
+│ │── Webhook Deleter
+│ │── Webhook Informations
+│ │── Nitro Link Checker
+│ │── Nitro Gift Link Gen
+│─┬ Snusbase Searcher
+│ │── Email
+│ │── Username
+│ │── Full Name
+│ │── Hash
+│ │── Password
+│ │── Ip Address
+│─┬ Osint
+│ │── Reverse Username Lookup
+│ │── Reverse Email Lookup
+│ │── Ip Informations
+│ │── Fivem Searcher
+yaura le utils, faut que je le dev
+│─┬ Nuker_bot
+│ │── Delete All Channel
+│ │── Create Mass Channel
+│ │── Spam All Channels
+│ │── Mass Role Create
+│ │── Delete All Roles
+│ │── Ban All Members
+│ │── Kick All Members
+│ │── Dm All Members
+│ │── Autoraider
+```
