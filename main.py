@@ -7,7 +7,7 @@
 __author__ = 'Scarlxrd_1337'
 __github__ = 'https://github.com/Scarlxrd211'
 __skid_alert__ = 'Please Dont be a skid and be respectfull with my work'
-__python_version__ = '3.12.8'
+__python_version__ = '3.11.8'
 
 # Make All Imports
 import os 

@@ -1,0 +1,69 @@
+███████╗██╗   ██╗██╗  ██╗ █████╗       ███████╗███╗   ██╗██╗   ██╗███████╗██████╗  █████╗ ███████╗███████╗
+██╔════╝██║   ██║██║ ██╔╝██╔══██╗      ██╔════╝████╗  ██║██║   ██║██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+███████╗██║   ██║█████╔╝ ███████║█████╗███████╗██╔██╗ ██║██║   ██║███████╗██████╔╝███████║███████╗█████╗  
+╚════██║██║   ██║██╔═██╗ ██╔══██║╚════╝╚════██║██║╚██╗██║██║   ██║╚════██║██╔══██╗██╔══██║╚════██║██╔══╝  
+███████║╚██████╔╝██║  ██╗██║  ██║      ███████║██║ ╚████║╚██████╔╝███████║██████╔╝██║  ██║███████║███████╗
+╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝      ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   
+                                                                    Credits: https://github.com/Scarlxrd211
+                                                                    Telegram: @Sicarioweb
+[/] Database Name: 1642_ZEEROQ_COM_226M_COMBOLIST_2019
+[+] email: yoruko@gmail.com
+[+] password: 881231iou
+
+[/] Database Name: 1269_TWITTER_COM_227M_SOCIAL_012023
+[+] username: yoruko_jing
+[+] email: yoruko@gmail.com
+[+] name: Yoruko
+[+] created: Thu Oct 03 15:46:09 +0000 2013
+[+] followers: 3
+
+[/] Database Name: 1216_GENIUSU_COM_1334K_BUSINESS_112020
+[+] email: yoruko@gmail.com
+[+] lastip: 175.139.156.90
+[+] hash: $2a$10$zAmXtG1AhiWcnhOJ0gRPWOTXIifpkvlZCJKxOxVNOtcEIaRio4Rg2
+[+] name: Coco Chung
+[+] id: 693382
+
+[/] Database Name: 0798_MYFITNESSPAL_COM_144M_FITNESS_022018
+[+] username: yoruko88
+[+] email: yoruko@gmail.com
+[+] lastip: 175.139.156.90
+
+[/] Database Name: 0644_DROPBOX_COM_68M_HOSTING_2012
+[+] email: yoruko@gmail.com
+[+] hash: $2a$08$ZMSQwMNuEtDoRZlB2mlZd.d618w8OhFX/qy9VAqoU2g68lv5cEEbW
+
+[/] Database Name: 0572_8TRACKS_COM_18M_MUSIC_2017
+[+] username: yoruko
+[+] email: yoruko@gmail.com
+[+] hash: 40c07638124fbacf300042fbdbacbe14a823cab0
+[+] salt: fed20a63f6df8532e59c5a3f4b9d24e64bdedeb5
+
+[/] Database Name: 0564_TUMBLR_COM_73M_SOCIAL_2013
+[+] email: yoruko@gmail.com
+[+] hash: 4f0f750d08a0efc4f434df736627de624b69d170
+
+[/] Database Name: 0500_2844_DATABASES_218M_COMPILATION_2018
+[+] email: yoruko@gmail.com
+[+] password: 881231iou
+
+[/] Database Name: 0315_LAST_FM_41M_MUSIC_2012
+[+] username: yoruko88
+[+] email: yoruko@gmail.com
+[+] hash: c6c15145c5c25187835e6655527a2587
+[+] regdate: 2010-04-26 03:56:55f
+
+[/] Database Name: 0313_ADOBE_COM_151M_SOFTWARE_102013
+[+] email: yoruko@gmail.com
+[+] hash: yinyvQ+skVUIx+w38j30rA==
+
+[/] Database Name: 0309_000WEBHOST_COM_13M_HOSTING_032015
+[+] username: Yoruko
+[+] email: yoruko@gmail.com
+[+] lastip: 203.188.232.196
+[+] password: 881231iou
+
+[/] Database Name: 0308_DROPBOX_COM_18M_HOSTING_2012
+[+] email: yoruko@gmail.com
+[+] password: 881231iou
+
