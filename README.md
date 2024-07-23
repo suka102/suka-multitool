@@ -39,7 +39,11 @@ suka-multitool/
 │   │   ├── pyarmor_runtime.pyd
 ```
 
-## Features With Subdomains
+# 🚀 Features With Subdomains
+
+## Discord Tools
+
+<a href="https://ibb.co/3fPSPKg"><img src="https://i.ibb.co/cbs2sq4/Capture-d-cran-2024-07-23-234311.png" alt="Capture-d-cran-2024-07-23-234311" border="0"></a>
 
 ```py
 │─┬ Discord Tools
@@ -53,6 +57,13 @@ suka-multitool/
 │ │── Webhook Informations
 │ │── Nitro Link Checker
 │ │── Nitro Gift Link Gen
+```
+
+## Snusbase Searcher
+
+<a href="https://ibb.co/DKcp0sT"><img src="https://i.ibb.co/VBnmfr5/Capture-d-cran-2024-07-23-234918.png" alt="Capture-d-cran-2024-07-23-234918" border="0"></a>
+
+```py
 │─┬ Snusbase Searcher
 │ │── Email
 │ │── Username
@@ -60,12 +71,28 @@ suka-multitool/
 │ │── Hash
 │ │── Password
 │ │── Ip Address
+```
+
+## Osint Options
+
+img
+
+```py
 │─┬ Osint
 │ │── Reverse Username Lookup
 │ │── Reverse Email Lookup
 │ │── Ip Informations
 │ │── Fivem Searcher
+```
+```py
 yaura le utils, faut que je le dev
+```
+
+## Discord Nuker Bot
+
+<a href="https://ibb.co/TMcfd6g"><img src="https://i.ibb.co/3m13Q2C/Capture-d-cran-2024-07-23-235550.png" alt="Capture-d-cran-2024-07-23-235550" border="0"></a>
+
+```py
 │─┬ Nuker_bot
 │ │── Delete All Channel
 │ │── Create Mass Channel
