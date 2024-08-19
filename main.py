@@ -14,13 +14,15 @@ import os
 import sys
 import time
 import json
-import requests
 import random
 import string
-import tls_client
 import discord
 import asyncio
+import requests
+import tls_client
+import phonenumbers
 from colorama import *
+from phonenumbers import geocoder, carrier, timezone
 
 # Verify Python Version
 version_path = sys.version_info
@@ -982,9 +984,60 @@ def osint():
         holehe_mail()
     elif choice == "4":
         fivem_searcher()
+    elif choice == "5":
+        phone()
     elif choice == "z":
         main()
 
+def phone():
+    clear()
+    number = sinput('Number: ')
+    parsed_number = phonenumbers.parse(number, None)
+    if phonenumbers.is_valid_number(parsed_number):
+        s = "Valid"
+    else:
+        s = "Invalid"
+    if number.startswith("+"):
+        c_code = "+" + number[1:3] 
+    else:
+        c_code = "None"
+    try: operator = carrier.name_for_number(parsed_number, "fr")
+    except: operator = "None"
+
+    try: n_type = "Mobile" if phonenumbers.number_type(parsed_number) == phonenumbers.PhoneNumberType.MOBILE else "Fixe"
+    except: n_type = "None"
+    try: 
+        tz = timezone.time_zones_for_number(parsed_number)
+        tz_i = tz[0] if tz else None
+    except: tz_i = "None"
+        
+    try: 
+        country = phonenumbers.region_code_for_number(parsed_number)
+    except: 
+        country = "None" 
+    try: 
+        region = geocoder.description_for_number(parsed_number, "fr")
+    except: 
+        region = "None"
+        
+    try: 
+        formatted_number = phonenumbers.format_number(parsed_number, phonenumbers.PhoneNumberFormat.NATIONAL)
+    except: 
+        formatted_number = "None"
+
+    print(f"""
+{main_color()}[+] Phone: {W}{number}
+{main_color()}[+] Formatted: {W}{formatted_number}
+{main_color()}[+] Status: {W}{s}
+{main_color()}[+] Country Code: {W}{c_code}
+{main_color()}[+] Country: {W}{country}
+{main_color()}[+] Region: {W}{region}
+{main_color()}[+] Timezone: {W}{tz_i}
+{main_color()}[+] Operator: {W}{operator}
+{main_color()}[+] Number Type: {W}{n_type}
+""")
+    input(f'{main_color()}[@] Press enter to continue...')
+    main()
 # Holehe Reverse Mail lookup
 def holehe_mail():
     clear()
