@@ -1421,6 +1421,8 @@ def main():
         osint()
     elif choice == "4":
         print('soon')
+        input()
+        main()
     elif choice == "5":
         start_raid_bot()
     elif choice == "6":
